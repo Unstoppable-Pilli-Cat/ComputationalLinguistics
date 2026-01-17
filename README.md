@@ -1,0 +1,2 @@
+# ComputationalLinguistics
+Start from scratch
